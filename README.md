@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠𝗘+𝗧𝗢+𝗦𝗣𝗜𝗗𝗬+𝗕𝗢𝗧!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝗔𝗦𝗧𝗥𝗔+𝗕𝗢𝗧𝗦!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
-  <img src="https://telegra.ph/file/125892d5bb7520e72a3cc.jpg" alt="MKN BOTZ LOGO">
+  <img src="https://telegra.ph/file/125892d5bb7520e72a3cc.jpg" alt="CXBXA-LOGO">
 </p>
 <h1 align="center">
   <b> 𝗦𝗣𝗜𝗗𝗬 𝗕𝗢𝗧</b>
@@ -16,12 +16,7 @@
 
 ## ⚠️ ALERT ⚠️
 <b>
-Guyzz Githubil നിന്നും വേറെ ഒരാളുടെ repo edit ചെയ്യുന്നവരുടെ ശ്രദ്ധിക്കുക ⚠️
-ഏത് link മാറ്റിയാലും source cod മാറ്റരുത് 🙏 oru repo ഉണ്ടാക്കുന്നത് അത്ര simple
-അല്ല ഒരുപാട് കഷ്ടപ്പാട് ഉണ്ട് എന്നിട്ടും അത് public ക്കായി നിങ്ങൾക്ക് താരുന്നു 🥺
-അതിന്റെ നന്ദി എങ്കിലും കാണിച്ചുകൂടെ 🙏  ഞാൻ തന്നെ രാത്രി 2 മണി വരെ
-ഇരുന്ന് ആണ് ഓരോ errorum fix ചെയ്യുന്നത്  അപ്പോൾ oru ബോട്ടിന്റെ repo
-ഉണ്ടാക്കാൻ എത്ര കഷ്ടപ്പാട് ഉണ്ടാകും ദയവു ചെയ്യത് credits & source cod വെക്കുക 🙏🥺
+FUCK OFFFF MADAFAKAS!
 </b>
 
 ## Features
@@ -91,22 +86,22 @@ enable - re-enable chat.
 ban_user  - to ban a user.
 unban_user  - to unban a user.
 channel - to get list of total connected channels
-broadcast - to broadcast a message to all Eva Maria users
+broadcast - to broadcast a message to all bot users
 ```
 
 ## Original Repo
-*  [Eva Maria](https://github.com/EvamariaTG/EvaMaria)
+*  [ @cxbxa ](https://github.com/EvamariaTG/EvaMaria)
 
 ## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
+* [![ @cxbxa ](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
 
 ## Spacial Thanks To
 
-* [𝗥𝗢𝗚𝗨𝗘](https://github.com/Hackermanker)
+* [𝗥𝗢𝗚𝗨𝗘](https://github.com/cxbxa)
 
 ## TELAGRAM SUPPORT 
 
-* [![ASTRA BOTS](https://img.shields.io/static/v1?label=ASTRA&message=BOTS&color=critical)](https://t.me/botupdatesastra)
+* [![ Nero Links ](https://img.shields.io/static/v1?label=.&message=.&color=critical)](https://t.me/nerolinks)
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
