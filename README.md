@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠𝗘+𝗧𝗢+𝗦𝗣𝗜𝗗𝗬+𝗕𝗢𝗧!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝗔𝗦𝗧𝗥𝗔+𝗕𝗢𝗧𝗦!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
-  <img src="https://telegra.ph/file/125892d5bb7520e72a3cc.jpg" alt="CXBXA-LOGO">
+  <img src="https://telegra.ph/file/06ffe7868e0fde2a6ea3c.jpg" alt="CXBXA-LOGO">
 </p>
 <h1 align="center">
   <b> 𝗦𝗣𝗜𝗗𝗬 𝗕𝗢𝗧</b>
@@ -90,10 +90,10 @@ broadcast - to broadcast a message to all bot users
 ```
 
 ## Original Repo
-*  [ @cxbxa ](https://github.com/EvamariaTG/EvaMaria)
+*  [ @cxbxa ](https://github.com/cxbxa)
 
 ## Credits 
-* [![ @cxbxa ](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
+* [![ @cxbxa ](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/nerolinks)
 
 ## Spacial Thanks To
 
@@ -105,6 +105,6 @@ broadcast - to broadcast a message to all bot users
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/master/LICENSE)
+Licensed under [GNU AGPL 2.0.](https://github.com/cxbxa)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
